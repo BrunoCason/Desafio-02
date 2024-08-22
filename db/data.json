@@ -1,0 +1,295 @@
+{
+  "plants": [
+    {
+      "id": "1",
+      "name": "Echinocereus Cactus",
+      "subtitle": "A Majestic Addition to Your Plant Collection",
+      "label": [
+        "indoor",
+        "cactus"
+      ],
+      "price": "$139.99",
+      "isInSale": true,
+      "discountPercentage": 20,
+      "features": "Species: Echinocereus spp. Mature Size: Varies by species, typically ranging from 4 to 12 inches (10-30 cm) in height. Blooming Season: Typically spring or summer, with flowers lasting several days to weeks. Pot Size: Available in various pot sizes to suit your preference and needs. Shipping: Our Echinocereus Cacti are carefully packaged and shipped with the utmost care to ensure they arrive in excellent condition.",
+      "description": "Ladyfinger cactus (Echinocereus pentalophus) is also known as Alice, Devil's Fingers, and Dog Tail. It needs bright sunlight, light fertilizer, and is prone to root rot. The root system is shallow and weak. Aphids and mealybugs are also a danger. Avoiding wet soil can help with success with a ladyfinger cactus.",
+      "imgUrl": "src/assets/descriptionPlants/cactos-echinocereus-rigidissimo.png"
+    },
+    {
+      "id": "2",
+      "name": "Monstera Deliciosa",
+      "subtitle": "A Tropical Beauty for Your Indoor Garden",
+      "label": [
+        "indoor",
+        "tropical"
+      ],
+      "price": "$89.99",
+      "isInSale": true,
+      "discountPercentage": 0,
+      "features": "Species: Monstera deliciosa. Mature Size: Can grow up to 10 feet (3 meters) in height indoors. Blooming Season: Rarely blooms indoors. Pot Size: Available in various pot sizes to suit your preference and needs. Shipping: Our Monstera Deliciosa plants are carefully packaged and shipped with the utmost care to ensure they arrive in excellent condition.",
+      "description": "Monstera deliciosa, also known as the Swiss Cheese Plant, is a species of flowering plant native to tropical forests of southern Mexico, south to Panama. It has been introduced to many tropical areas, and has become a mildly invasive species in Hawaii.",
+      "imgUrl": "src/assets/descriptionPlants/monstera-deliciosa.png"
+    },
+    {
+      "id": "3",
+      "name": "Snake Plant",
+      "subtitle": "A Hardy and Forgiving Indoor Plant",
+      "label": [
+        "indoor",
+        "hardy"
+      ],
+      "price": "$49.99",
+      "isInSale": true,
+      "discountPercentage": 10,
+      "features": "Species: Sansevieria trifasciata. Mature Size: Can grow up to 3 feet (1 meter) in height indoors. Blooming Season: Rarely blooms indoors. Pot Size: Available in various pot sizes to suit your preference and needs. Shipping: Our Snake Plants are carefully packaged and shipped with the utmost care to ensure they arrive in excellent condition.",
+      "description": "Sansevieria trifasciata, also known as the Snake Plant, is a species of flowering plant in the family Asparagaceae, native to tropical West Africa from Nigeria east to the Congo. It is most commonly known as the snake plant, Saint George's sword, mother-in-law's tongue, and viper's bowstring hemp, among other names.",
+      "imgUrl": "src/assets/descriptionPlants/snake-plant.png"
+    },
+    {
+      "id": "4",
+      "name": "Fiddle Leaf Fig",
+      "subtitle": "A Statement Plant for Your Home or Office",
+      "label": [
+        "indoor",
+        "tropical"
+      ],
+      "price": "$129.99",
+      "isInSale": true,
+      "discountPercentage": 0,
+      "features": "Species: Ficus lyrata. Mature Size: Can grow up to 10 feet (3 meters) in height indoors. Blooming Season: Rarely blooms indoors. Pot Size: Available in various pot sizes to suit your preference and needs. Shipping: Our Fiddle Leaf Fig plants are carefully packaged and shipped with the utmost care to ensure they arrive in excellent condition.",
+      "description": "Ficus lyrata, commonly known as the fiddle-leaf fig, is a species of flowering plant in the mulberry and fig family Moraceae. It is native to western Africa, from Cameroon west to Sierra Leone, where it grows in lowland tropical rainforest.",
+      "imgUrl": "src/assets/descriptionPlants/fiddle-leaf-fig.png"
+    },
+    {
+      "id": "5",
+      "name": "ZZ Plant",
+      "subtitle": "A Low-Maintenance Plant for Your Home or Office",
+      "label": [
+        "indoor",
+        "hardy"
+      ],
+      "price": "$39.99",
+      "isInSale": true,
+      "discountPercentage": 5,
+      "features": "Species: Zamioculcas zamiifolia. Mature Size: Can grow up to 3 feet (1 meter) in height indoors. Blooming Season: Rarely blooms indoors. Pot Size: Available in various pot sizes to suit your preference and needs. Shipping: Our ZZ Plants are carefully packaged and shipped with the utmost care to ensure they arrive in excellent condition.",
+      "description": "Zamioculcas zamiifolia, commonly known as the ZZ plant, is a species of flowering plant in the family Araceae, native to eastern Africa, from Kenya south to northeastern South Africa. ZZ plant is grown primarily for its attractive glossy foliage, which consists of shiny, dark green leaves that are arranged in an alternating pattern along the stem.",
+      "imgUrl": "src/assets/descriptionPlants/zz-plant.png"
+    },
+    {
+      "id": "6",
+      "name": "Pothos",
+      "subtitle": "A Versatile Plant for Your Home or Office",
+      "label": [
+        "indoor",
+        "hardy"
+      ],
+      "price": "$29.99",
+      "isInSale": true,
+      "discountPercentage": 0,
+      "features": "Species: Epipremnum aureum. Mature Size: Can grow up to 6 feet (2 meters) in height indoors. Blooming Season: Rarely blooms indoors. Pot Size: Available in various pot sizes to suit your preference and needs. Shipping: Our Pothos plants are carefully packaged and shipped with the utmost care to ensure they arrive in excellent condition.",
+      "description": "Epipremnum aureum is a species of flowering plant in the arum family Araceae, native to Mo'orea in the Society Islands of French Polynesia. The species is a popular houseplant in temperate regions, but has also become naturalized in tropical and sub-tropical forests worldwide, including northern Australia, Southeast Asia, South Asia, the Pacific Islands and the West Indies.",
+      "imgUrl": "src/assets/descriptionPlants/golden-pothos.png"
+    },
+    {
+      "id": "7",
+      "name": "Spider Plant",
+      "subtitle": "A Classic Houseplant for Your Home or Office",
+      "label": [
+        "indoor",
+        "hardy"
+      ],
+      "price": "$19.99",
+      "isInSale": true,
+      "discountPercentage": 7,
+      "features": "Species: Chlorophytum comosum. Mature Size: Can grow up to 2 feet (60 cm) in height indoors. Blooming Season: Rarely blooms indoors. Pot Size: Available in various pot sizes to suit your preference and needs. Shipping: Our Spider Plants are carefully packaged and shipped with the utmost care to ensure they arrive in excellent condition.",
+      "description": "Chlorophytum comosum, often called spider plant but also known as airplane plant, St. Bernard's lily, spider ivy, ribbon plant, and hen and chickens is a species of perennial flowering plant. It is native to tropical and southern Africa, but has become naturalized in other parts of the world, including western Australia.",
+      "imgUrl": "src/assets/descriptionPlants/spider-plant.png"
+    },
+    {
+      "id": "8",
+      "name": "Rubber Plant",
+      "subtitle": "A Bold and Beautiful Plant for Your Home or Office",
+      "label": [
+        "indoor",
+        "hardy"
+      ],
+      "price": "$59.99",
+      "isInSale": true,
+      "discountPercentage": 0,
+      "features": "Species: Ficus elastica. Mature Size: Can grow up to 10 feet (3 meters) in height indoors. Blooming Season: Rarely blooms indoors. Pot Size: Available in various pot sizes to suit your preference and needs. Shipping: Our Rubber Plants are carefully packaged and shipped with the utmost care to ensure they arrive in excellent condition.",
+      "description": "Ficus elastica, the rubber fig, rubber bush, rubber tree, rubber plant, or Indian rubber bush, Indian rubber tree, is a species of plant in the fig genus, native to eastern parts of South Asia and southeast Asia. It has become naturalized in Sri Lanka, the West Indies, and the US State of Florida.",
+      "imgUrl": "src/assets/descriptionPlants/rubber-tree.png"
+    },
+    {
+      "id": "9",
+      "name": "Aloe Vera",
+      "subtitle": "A Healing Plant for Your Home or Office",
+      "label": [
+        "indoor",
+        "medical"
+      ],
+      "price": "$24.99",
+      "isInSale": true,
+      "discountPercentage": 25,
+      "features": "Species: Aloe vera. Mature Size: Can grow up to 2 feet (60 cm) in height indoors. Blooming Season: Rarely blooms indoors. Pot Size: Available in various pot sizes to suit your preference and needs. Shipping: Our Aloe Vera plants are carefully packaged and shipped with the utmost care to ensure they arrive in excellent condition.",
+      "description": "Aloe vera is a succulent plant species of the genus Aloe. An evergreen perennial, it originates from the Arabian Peninsula, but grows wild in tropical, semi-tropical, and arid climates around the world. It is cultivated for agricultural and medicinal uses.",
+      "imgUrl": "src/assets/descriptionPlants/aloe-vera.png"
+    },
+    {
+      "id": "10",
+      "name": "Peace Lily",
+      "subtitle": "A Beautiful Plant for Your Home or Office",
+      "label": [
+        "indoor",
+        "hardy"
+      ],
+      "price": "$24.99",
+      "isInSale": true,
+      "discountPercentage": 0,
+      "features": "Species: Spathiphyllum spp. Mature Size: Can grow up to 3 feet (1 meter) in height indoors. Blooming Season: Typically blooms in spring and summer. Pot Size: Available in various pot sizes to suit your preference and needs. Shipping: Our Peace Lily plants are carefully packaged and shipped with the utmost care to ensure they arrive in excellent condition.",
+      "description": "Spathiphyllum is a genus of about 47 species of monocotyledonous flowering plants in the family Araceae, native to tropical regions of the Americas and southeastern Asia. Certain species of Spathiphyllum are commonly known as spath or peace lilies.",
+      "imgUrl": "src/assets/descriptionPlants/spathiphyllum-peace-lily.png"
+    },
+    {
+      "id": "11",
+      "name": "Parlor Palm",
+      "subtitle": "A Classic Houseplant for Your Home or Office",
+      "label": [
+        "indoor",
+        "hardy"
+      ],
+      "price": "$34.99",
+      "isInSale": true,
+      "discountPercentage": 12,
+      "features": "Species: Chamaedorea elegans. Mature Size: Can grow up to 4 feet (1.2 meters) in height indoors. Blooming Season: Rarely blooms indoors. Pot Size: Available in various pot sizes to suit your preference and needs. Shipping: Our Parlor Palm plants are carefully packaged and shipped with the utmost care to ensure they arrive in excellent condition.",
+      "description": "Chamaedorea elegans, the neanthe bella palm or parlour palm, is species of small palm tree native to the rainforests in Southern Mexico and Guatemala. The parlor palm is one of the most heavily sold houseplant palms in the world.",
+      "imgUrl": "src/assets/descriptionPlants/parlor-palm.png"
+    },
+    {
+      "id": "12",
+      "name": "Bird of Paradise",
+      "subtitle": "A Striking Plant for Your Home or Office",
+      "label": [
+        "indoor",
+        "tropical"
+      ],
+      "price": "$69.99",
+      "isInSale": true,
+      "discountPercentage": 0,
+      "features": "Species: Strelitzia spp. Mature Size: Can grow up to 6 feet (2 meters) in height indoors. Blooming Season: Typically blooms in spring and summer. Pot Size: Available in various pot sizes to suit your preference and needs. Shipping: Our Bird of Paradise plants are carefully packaged and shipped with the utmost care to ensure they arrive in excellent condition.",
+      "description": "Strelitzia is a genus of five species of perennial plants, native to South Africa. It belongs to the plant family Strelitziaceae. The genus is named after the duchy of Mecklenburg-Strelitz, birthplace of Queen Charlotte of the United Kingdom.",
+      "imgUrl": "src/assets/descriptionPlants/bird-of-paradise-plant.png"
+    },
+    {
+      "id": "13",
+      "name": "Chinese Money Plant",
+      "subtitle": "A Unique Plant for Your Home or Office",
+      "label": [
+        "indoor",
+        "hardy"
+      ],
+      "price": "$79.99",
+      "isInSale": true,
+      "discountPercentage": 18,
+      "features": "Species: Pilea peperomioides. Mature Size: Can grow up to 12 inches (30 cm) in height indoors. Blooming Season: Rarely blooms indoors. Pot Size: Available in various pot sizes to suit your preference and needs. Shipping: Our Chinese Money Plants are carefully packaged and shipped with the utmost care to ensure they arrive in excellent condition.",
+      "description": "Pilea peperomioides, known as Chinese money plant, pancake plant, UFO plant, lefse plant, or missionary plant, is a species of flowering plant in the nettle family Urticaceae, native to Yunnan and Sichuan provinces in southern China.",
+      "imgUrl": "src/assets/descriptionPlants/chinese-money-plants.png"
+    },
+    {
+      "id": "14",
+      "name": "Calathea",
+      "subtitle": "A Vibrant Plant for Your Home or Office",
+      "label": [
+        "indoor",
+        "tropical"
+      ],
+      "price": "$14.99",
+      "isInSale": true,
+      "discountPercentage": 0,
+      "features": "Species: Calathea spp. Mature Size: Varies by species, typically ranging from 1 to 3 feet (30-90 cm) in height. Blooming Season: Rarely blooms indoors. Pot Size: Available in various pot sizes to suit your preference and needs. Shipping: Our Calathea plants are carefully packaged and shipped with the utmost care to ensure they arrive in excellent condition.",
+      "description": "Calathea is a genus of plants belonging to the family Marantaceae. There are several dozen species in this genus. Native to the tropical Americas, many of the species are popular as pot plants due to their decorative leaves and, in some species, colorful inflorescences.",
+      "imgUrl": "src/assets/descriptionPlants/calathea-foliage.png"
+    },
+    {
+      "id": "df3e7e7a-cab3-48c9-9726-f48897f3effd",
+      "name": "Peperômia Melância",
+      "subtitle": "Segura para os animais de estimação",
+      "label": [
+        "",
+        "Peperomia argyreia"
+      ],
+      "quantity": 46,
+      "price": "$164,00",
+      "isInSale": true,
+      "discountPercentage": 10,
+      "features": "Essa plantinha não é tóxica para animais.",
+      "description": "A Peperômia Melância, também conhecida como Peperomia Argyreia, é uma planta encantadora que conquista corações com suas folhas que lembram a casca de uma melancia. Se você busca uma planta de fácil cuidado e um toque de exotismo para sua coleção, a Peperômia Melância é a escolha perfeita.",
+      "imgUrl": ""
+    },
+    {
+      "id": "4601e82e-530d-4144-b577-e11e91c8db43",
+      "name": "Peperômia Melância",
+      "subtitle": "Segura para os animais de estimação",
+      "label": [
+        "",
+        "Peperomia argyreia"
+      ],
+      "quantity": 98,
+      "price": "$164,00",
+      "isInSale": true,
+      "discountPercentage": 10,
+      "features": "Essa plantinha não é tóxica para animais.",
+      "description": "A Peperômia Melância, também conhecida como Peperomia Argyreia, é uma planta encantadora que conquista corações com suas folhas que lembram a casca de uma melancia. Se você busca uma planta de fácil cuidado e um toque de exotismo para sua coleção, a Peperômia Melância é a escolha perfeita.",
+      "imgUrl": ""
+    },
+    {
+      "id": "1111",
+      "name": "Echinocereus Cactus",
+      "subtitle": "A Majestic Addition to Your Plant Collection",
+      "label": [
+        "indoor",
+        "cactus"
+      ],
+      "price": "$139.99",
+      "quantity": 50,
+      "isInSale": true,
+      "discountPercentage": 20,
+      "features": "Species: Echinocereus spp. Mature Size: Varies by species, typically ranging from 4 to 12 inches (10-30 cm) in height. Blooming Season: Typically spring or summer, with flowers lasting several days to weeks. Pot Size: Available in various pot sizes to suit your preference and needs. Shipping: Our Echinocereus Cacti are carefully packaged and shipped with the utmost care to ensure they arrive in excellent condition.",
+      "description": "Ladyfinger cactus (Echinocereus pentalophus) is also known as Alice, Devil's Fingers, and Dog Tail. It needs bright sunlight, light fertilizer, and is prone to root rot. The root system is shallow and weak. Aphids and mealybugs are also a danger. Avoiding wet soil can help with success with a ladyfinger cactus.",
+      "imgUrl": "src/assets/descriptionPlants/cactos-echinocereus-rigidissimo.png"
+    },
+    {
+      "id": "123123",
+      "name": "Echinocereus Cactus",
+      "subtitle": "A Majestic Addition to Your Plant Collection",
+      "label": [
+        "indoor",
+        "cactus"
+      ],
+      "price": "$139.99",
+      "quantity": 50,
+      "isInSale": true,
+      "discountPercentage": 20,
+      "features": "Species: Echinocereus spp. Mature Size: Varies by species, typically ranging from 4 to 12 inches (10-30 cm) in height. Blooming Season: Typically spring or summer, with flowers lasting several days to weeks. Pot Size: Available in various pot sizes to suit your preference and needs. Shipping: Our Echinocereus Cacti are carefully packaged and shipped with the utmost care to ensure they arrive in excellent condition.",
+      "description": "Ladyfinger cactus (Echinocereus pentalophus) is also known as Alice, Devil's Fingers, and Dog Tail. It needs bright sunlight, light fertilizer, and is prone to root rot. The root system is shallow and weak. Aphids and mealybugs are also a danger. Avoiding wet soil can help with success with a ladyfinger cactus.",
+      "imgUrl": "src/assets/descriptionPlants/cactos-echinocereus-rigidissimo.png"
+    },
+    {
+      "id": "6fabc7b0-7423-4cab-a83f-28e95db513bc",
+      "name": "Peperômia Melância",
+      "subtitle": "Segura para os animais de estimação",
+      "label": [
+        "",
+        "Peperomia argyreia"
+      ],
+      "quantity": 38,
+      "price": "$164,00",
+      "isInSale": true,
+      "discountPercentage": 10,
+      "features": "Essa plantinha não é tóxica para animais.",
+      "description": "A Peperômia Melância, também conhecida como Peperomia Argyreia, é uma planta encantadora que conquista corações com suas folhas que lembram a casca de uma melancia. Se você busca uma planta de fácil cuidado e um toque de exotismo para sua coleção, a Peperômia Melância é a escolha perfeita.",
+      "imgUrl": "src/assets/descriptionPlants/spider-plant.png",
+      "sales": 40
+    }
+  ]
+}
